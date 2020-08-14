@@ -18,6 +18,7 @@ public class AddBookWithHashMap {
 	@Test()
 	public void addBook()
 	{
+		//Test
 		RestAssured.baseURI="http://216.10.245.166";
 		
 		//Hash Map
